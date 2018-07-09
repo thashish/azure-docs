@@ -14,13 +14,14 @@ ms.topic: conceptual
 ms.date: 02/21/2018
 ms.author: nitinme
 
+
 ---
 # Install and use Presto on HDInsight Hadoop clusters
 
 In this document, you learn how to install Presto on HDInsight Hadoop clusters by using Script Action. You also learn how to install Airpal on an existing Presto HDInsight cluster.
 
 > [!IMPORTANT]
-> The steps in this document require an **HDInsight 3.5 Hadoop cluster** that uses Linux. Linux is the only operating system used on HDInsight version 3.4 or greater. For more information, see [HDInsight versions](hdinsight-component-versioning.md).
+> The steps in this document require an **HDInsight 3.6 Hadoop cluster** that uses Linux. Linux is the only operating system used on HDInsight version 3.4 or greater. For more information, see [HDInsight versions](hdinsight-component-versioning.md).
 
 ## What is Presto?
 [Presto](https://prestodb.io/overview.html) is a fast distributed SQL query engine for big data. Presto is suitable for interactive querying of petabytes of data. For more information on the components of Presto and how they work together, see [Presto concepts](https://github.com/prestodb/presto/blob/master/presto-docs/src/main/sphinx/overview/concepts.rst).
